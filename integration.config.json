@@ -1,0 +1,11 @@
+{
+  "endpoints": [
+    {
+      "name": "IHackerService",
+      "configurationName": "HttpConfig",
+      "address": "https://hacker-news.firebaseio.com/v0/item",
+      "routes": {
+        "GetStories ": "/8863.json?print=pretty"  }
+    }
+  ]
+}
